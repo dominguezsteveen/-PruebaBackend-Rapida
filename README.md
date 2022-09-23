@@ -17,3 +17,10 @@ Este es un proyecto desarrollado en el framework Flask de python, con el objetiv
     }
 # Logica
 El aplicativo valida el usuario y contraseña que se le está dando en el json y si todo está correcto, valida la cadena ingreseda y busca la subcadena que sea más larga. Si encuentra algún error o incongruencia devuelve un mensaje de error.
+.
+.
+.
+.
+.
+# Nota
+Esta prueba superó mis conocimientos basicos que tenía, no pude implementar todos los requisitos que se pedían por falta de conocimientos. Pido mil disculpas si es una perdida de tiempo pero al menos quería intentarlo.
